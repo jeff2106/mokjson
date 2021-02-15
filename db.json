@@ -1,21 +1,35 @@
+
 {
-  "info": [
+  "posts": [
     {
-      "name": "Pharmacie Notre Dame",
-      "Description": "Pharmacie Notre Dame De La Visitation",
-      "Longitude": "-3.9926783",
-      "Latitude": "5.3741158"
-    },{
-      "name": "Pharmacie Arc en ciel",
-      "Description": "Pharmacie Arc en ciel Cocody",
-      "Longitude": "-3.9906271",
-      "Latitude": "5.374167"
+      "id": 1,
+      "title": "Post 1",
+      "description": "this is description 1"
     },
     {
-      "name": "Pharmacie Espace Sante",
-      "Description": "Pharmacie Notre Dame De La Visitation",
-      "Longitude": "-3.9977072",
-      "Latitude": "5.3777764"
-      },
-  ]
+      "id": 2,
+      "title": "Post 2",
+      "description": "this is description 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3",
+      "description": "this is description 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "comment 1",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "comment 2",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "Profile 1"
+  }
 }
