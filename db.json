@@ -1,0 +1,21 @@
+{
+  "posts": [
+    {
+      "name": "Pharmacie Notre Dame",
+      "Description": "Pharmacie Notre Dame De La Visitation",
+      "Longitude": "-3.9926783",
+      "Latitude": "5.3741158"
+    },{
+      "name": "Pharmacie Arc en ciel",
+      "Description": "Pharmacie Arc en ciel Cocody",
+      "Longitude": "-3.9906271",
+      "Latitude": "5.374167"
+    },
+    {
+      "name": "Pharmacie Espace Sante",
+      "Description": "Pharmacie Notre Dame De La Visitation",
+      "Longitude": "-3.9977072",
+      "Latitude": "5.3777764"
+      },
+  ]
+}
